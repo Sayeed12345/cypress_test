@@ -1,0 +1,15 @@
+{
+    "name": "cypress_automation",
+    "version": "1.0.0",
+    "main": "cypress.js",
+    "scripts": {
+        "cypress:open": "cypress open"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "cypress": "^6.8.0"
+    }
+}
